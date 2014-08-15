@@ -1,0 +1,8 @@
+{
+  "name": "startup",
+  "description": "",
+  "version": "0.0.0",
+  "dependencies": {
+    "threejs": "*"
+  }
+}

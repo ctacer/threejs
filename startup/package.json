@@ -1,0 +1,11 @@
+{
+  "name": "startup",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "start": "http-server ./app -p 8001"
+  },
+  "devDependencies": {
+    "http-server": "^0.6.1"
+  }
+}
